@@ -1,7 +1,7 @@
 # Hi, I'm Muhammad Fouad 👋
 
-**Backend Developer | Competitive Programmer | Computer Science Student**
+**Backend Developer | Problem Solver | Computer Science Student**
 
-[![Codeforces](https://cp-logo.vercel.app/codeforces/Abu_Bakr)](https://codeforces.com/profile/Abu_Bakr)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/YOUR_LEETCODE_USERNAME/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/muhammadfoad/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:mohammedd.foad@gmail.com)
